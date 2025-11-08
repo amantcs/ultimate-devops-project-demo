@@ -1,6 +1,6 @@
 // Copyright The OpenTelemetry Authors
 // SPDX-License-Identifier: Apache-2.0
-// another comment is edited
+// another comment is edited again
 package main
 
 //go:generate go install google.golang.org/protobuf/cmd/protoc-gen-go
